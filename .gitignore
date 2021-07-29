@@ -1,1 +1,12 @@
 env
+build/parse/PKG-00.toc
+build/parse/base_library.zip
+build/parse/Analysis-00.toc
+build/parse/EXE-00.toc
+build/parse/localpycos/struct.pyo
+build/parse/parse.exe.manifest
+build/parse/PKG-00.pkg
+build/parse/PYZ-00.pyz
+build/parse/PYZ-00.toc
+build/parse/warn-parse.txt
+build/parse/xref-parse.html
