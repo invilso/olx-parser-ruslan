@@ -1,4 +1,6 @@
 env
+build/
+__pycache__/
 build/parse/PKG-00.toc
 build/parse/base_library.zip
 build/parse/Analysis-00.toc
@@ -10,3 +12,5 @@ build/parse/PYZ-00.pyz
 build/parse/PYZ-00.toc
 build/parse/warn-parse.txt
 build/parse/xref-parse.html
+parser.rar
+dist.rar
